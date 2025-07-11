@@ -20,12 +20,12 @@ export default function Contact() {
     <div className="min-h-screen py-20">
       <div className="container mx-auto px-6">
         <h1 className="text-5xl font-bold mb-12 text-center bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">
-          Let's Connect
+          Let&apos;s Connect
         </h1>
         
         <div className="max-w-4xl mx-auto">
           <p className="text-xl text-center text-gray-300 mb-12">
-            Ready to elevate your development experience? Hit us up and let's create something amazing together. 
+            Ready to elevate your development experience? Hit us up and let&apos;s create something amazing together. 
             We respond faster to high-vibe inquiries.
           </p>
 
@@ -69,7 +69,7 @@ export default function Contact() {
                   >
                     <option value="low">Low (Help needed ASAP)</option>
                     <option value="medium">Medium (Room for improvement)</option>
-                    <option value="high">High (Let's collaborate)</option>
+                    <option value="high">High (Let&apos;s collaborate)</option>
                     <option value="transcendent">Transcendent (On our wavelength)</option>
                   </select>
                 </div>
@@ -121,7 +121,7 @@ export default function Contact() {
               <div className="bg-black/50 p-6 rounded-xl border border-white/10">
                 <h3 className="font-semibold mb-3">Emergency Vibe Support</h3>
                 <p className="text-gray-300 text-sm mb-3">
-                  If you're experiencing a critical vibe emergency (e.g., production bug at 3 AM, 
+                  If you&apos;re experiencing a critical vibe emergency (e.g., production bug at 3 AM, 
                   existential coding crisis, or severe burnout), we offer 24/7 emergency support.
                 </p>
                 <p className="text-purple-400 font-mono text-sm">VIBE-911-HELP</p>

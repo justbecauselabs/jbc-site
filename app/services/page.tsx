@@ -43,7 +43,7 @@ export default function Services() {
                 <ul className="list-disc list-inside text-gray-400 space-y-2">
                   <li>Vibe assessment and optimization</li>
                   <li>Workflow automation to eliminate vibe-killers</li>
-                  <li>Custom AI assistants tuned to your team's frequency</li>
+                  <li>Custom AI assistants tuned to your team&apos;s frequency</li>
                   <li>24/7 vibe monitoring and alerts</li>
                 </ul>
               </div>
@@ -96,7 +96,7 @@ export default function Services() {
             unique wavelength. No cookie-cutter approaches—just pure, personalized vibes.
           </p>
           <a href="/contact" className="inline-block px-8 py-3 bg-gradient-to-r from-purple-500 to-pink-600 rounded-full hover:from-purple-600 hover:to-pink-700 transition-all transform hover:scale-105">
-            Let's Vibe Together
+            Let&apos;s Vibe Together
           </a>
         </div>
       </div>

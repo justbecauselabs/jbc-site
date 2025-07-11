@@ -19,15 +19,15 @@ export default function Story() {
 
               <p className="text-gray-300 mb-6">
                 Then it happened. At exactly 3:33 AM, we discovered something that would change our lives forever: 
-                <span className="text-purple-400 font-semibold">The Vibe</span>. It wasn't just the perfect playlist 
+                <span className="text-purple-400 font-semibold">The Vibe</span>. It wasn&apos;t just the perfect playlist 
                 or the RGB lighting hitting just right. It was deeper. It was the feeling when your code compiles 
                 on the first try, when the AI model outputs exactly what you envisioned, when everything just... flows.
               </p>
 
               <div className="my-8 p-6 bg-black/50 rounded-xl border-l-4 border-purple-500">
                 <p className="italic text-purple-300">
-                  "Once you feel The Vibe, you can never go back. It's like trying to code without syntax 
-                  highlighting—technically possible, but why would you torture yourself?"
+                  &quot;Once you feel The Vibe, you can never go back. It&apos;s like trying to code without syntax 
+                  highlighting—technically possible, but why would you torture yourself?&quot;
                 </p>
                 <p className="text-sm text-gray-400 mt-2">- Alex, Chief Vibe Officer</p>
               </div>
@@ -39,7 +39,7 @@ export default function Story() {
               </p>
 
               <p className="text-gray-300 mb-6">
-                That's when we discovered our true calling: <span className="text-pink-400 font-semibold">AI-powered development</span>. 
+                That&apos;s when we discovered our true calling: <span className="text-pink-400 font-semibold">AI-powered development</span>. 
                 We let the machines handle the mundane while we surfed the waves of pure creative energy. Our productivity 
                 skyrocketed, our code quality improved, and most importantly—The Vibe remained unbroken.
               </p>
@@ -47,8 +47,8 @@ export default function Story() {
               <h3 className="text-2xl font-semibold mb-4 text-pink-300">The Birth of Just Because Labs</h3>
 
               <p className="text-gray-300 mb-6">
-                People asked us, "Why start a company focused entirely on vibing and AI coding?" Our answer was simple: 
-                <span className="text-purple-400 font-semibold">"Just because."</span> Because life's too short for bad vibes. 
+                People asked us, &quot;Why start a company focused entirely on vibing and AI coding?&quot; Our answer was simple: 
+                <span className="text-purple-400 font-semibold">&quot;Just because.&quot;</span> Because life&apos;s too short for bad vibes. 
                 Because coding should feel like creating art, not filing taxes. Because we physically cannot function 
                 without The Vibe anymore.
               </p>
@@ -75,9 +75,9 @@ export default function Story() {
               </div>
 
               <p className="text-gray-300 mb-6">
-                Today, Just Because Labs LLC stands as a beacon for all developers who've felt their vibe diminish 
-                while writing their 1000th unit test or debugging a production issue at 2 AM. We're here to show 
-                the world that coding with AI isn't just about efficiency—it's about preserving the sacred vibe 
+                Today, Just Because Labs LLC stands as a beacon for all developers who&apos;ve felt their vibe diminish 
+                while writing their 1000th unit test or debugging a production issue at 2 AM. We&apos;re here to show 
+                the world that coding with AI isn&apos;t just about efficiency—it&apos;s about preserving the sacred vibe 
                 that makes us love what we do.
               </p>
 

@@ -9,7 +9,7 @@ export default function Home() {
               Vibing with AI
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Three bros. One mission. Infinite vibes. We code the future with AI because we can't live without the vibes.
+              Three bros. One mission. Infinite vibes. We code the future with AI because we can&apos;t live without the vibes.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="/story" className="px-8 py-3 bg-gradient-to-r from-purple-500 to-pink-600 rounded-full hover:from-purple-600 hover:to-pink-700 transition-all transform hover:scale-105">
@@ -55,7 +55,7 @@ export default function Home() {
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-4xl font-bold mb-6">Ready to Vibe?</h2>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Join us on this journey where AI meets pure vibes. Because life's too short for bad energy and manual coding.
+            Join us on this journey where AI meets pure vibes. Because life&apos;s too short for bad energy and manual coding.
           </p>
           <a href="/contact" className="inline-block px-8 py-3 bg-gradient-to-r from-purple-500 to-pink-600 rounded-full hover:from-purple-600 hover:to-pink-700 transition-all transform hover:scale-105">
             Get In Touch
